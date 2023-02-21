@@ -38,6 +38,12 @@ public class ListClubs {
 		this.teamManager = teamManager;
 		this.footballRanking = footballRanking;
 	}
+	
+	public ListClubs(String teamManager, String footballRanking) {
+		super();
+		this.teamManager = teamManager;
+		this.footballRanking = footballRanking;
+	}
 
 	/**
 	 * @return the id

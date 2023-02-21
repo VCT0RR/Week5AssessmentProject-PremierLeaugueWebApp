@@ -195,17 +195,17 @@ a {
 		</div>
 		
 		<div class="form-group">
-		<label>City: </label>
+		<label>Club: </label>
 		<input type="text" name="club" value="${clubToEdit.club}">
 		</div>
 		
 		<div class="form-group">
-		<label>City: </label>
+		<label>Club Manager: </label>
 		<input type="text" name="teamManager" value="${clubToEdit.teamManager}">
 		</div>
 		
 		<div class="form-group">
-		<label>City: </label>
+		<label>Club Standing: </label>
 		<input type="text" name="footballRanking" value="${clubToEdit.footballRanking}">
 		</div>
 		
